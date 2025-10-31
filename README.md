@@ -102,4 +102,11 @@ This dashboard empowers stakeholders to:
 
 
 ## 📎 Repository Contents  
+-**Live powerBI dashboard link**
+-**Data validation files**
+-**Raw dataset**
+
+
+## 🏁 Conclusion
+This dashboard enables data-driven decision-making for lenders by providing a holistic view of loan portfolios, identifying risk concentration zones, and monitoring YoY changes in default rates with clarity and precision.
 
