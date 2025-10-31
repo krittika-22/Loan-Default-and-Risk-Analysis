@@ -95,7 +95,7 @@ This dashboard empowers stakeholders to:
 
 - **Power BI Desktop**  
 - **DAX**  
-- **Power Query **  
+- **Power Query**  
 - **Excel / CSV Data Source**  
 
 
