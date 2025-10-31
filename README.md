@@ -3,9 +3,9 @@
 # 🏦 Loan Default Risk Analysis | Power BI  
 
 ### 📊 [Live Power BI Dashboard](#)  
-*(Add your dashboard link once published)*  
+https://github.com/krittika-22/Loan-Default-and-Risk-Analysis/blob/main/loan%20default%20dataset%20reports.pbix
 
-📁 **File:** 
+
 📂 **Dataset:** 
 🖼️Validation Files:  https://github.com/krittika-22/Loan-Default-and-Risk-Analysis/tree/main/Data%20Validation
 
