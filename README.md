@@ -5,9 +5,9 @@
 ### 📊 [Live Power BI Dashboard](#)  
 *(Add your dashboard link once published)*  
 
-📁 **File:** `"C:\Users\konin\Desktop\PYTHON\dataAnalysis\LOAN DEFAULT DATASET ANALYSIS\loan default dataset reports.pbix"`  
-📂 **Dataset:** `"C:\Users\konin\Desktop\PYTHON\dataAnalysis\LOAN DEFAULT DATASET ANALYSIS\Loan_default.xlsx"`  
-🖼️Validation Files:"C:\Users\konin\Desktop\PYTHON\dataAnalysis\LOAN DEFAULT DATASET ANALYSIS\data validation-powerbi,excel"
+📁 **File:** 
+📂 **Dataset:** 
+🖼️Validation Files:  
 
 ---
 
